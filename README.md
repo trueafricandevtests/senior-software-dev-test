@@ -7,7 +7,7 @@ Welcome to the Microservice E-commerce Exercise! In this exercise, you will be b
 
 ### Step 1: Microservice Architecture Setup
 1. Set up a new repository named `microservice-setup`.
-2. Create a basic microservice architecture within the repository. Programming languages allowed are Java, Golang, C++ and Python.
+2. Create a basic microservice architecture within the repository. Programming languages allowed are Java, Golang, C++ and Python. Golang or Java is a plus.
 
 ### Step 2: Implement Order Service
 1. Create a new branch named `order-service`.
